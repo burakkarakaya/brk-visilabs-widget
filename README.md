@@ -2,6 +2,9 @@
 
 
 ## HTML TEMPLATE
+
+> liste, fiyat, inidirim oranı için burada script template tanımlanır. Tanımlanmazsa default değerlerini alır
+
 ```HTML
 <script id="visTemplateList" type="text/template">
     <li class="ems-prd swiper-slide {{class}}" data-prdcode="{{prdcode}}">
@@ -41,6 +44,8 @@
 ```
 
 ## CONFIG
+
+> config dosyası
 
 ```HTML
 
