@@ -3,7 +3,7 @@
 
 ## HTML TEMPLATE
 
-* liste, fiyat, inidirim oranı için burada script template tanımlanır. Tanımlanmazsa default değerlerini alır
+liste, fiyat, inidirim oranı için burada script template tanımlanır. Tanımlanmazsa default değerlerini alır
 
 ```HTML
 <script id="visTemplateList" type="text/template">
@@ -45,7 +45,7 @@
 
 ## CONFIG
 
-> config dosyası
+config dosyası
 
 ```HTML
 
