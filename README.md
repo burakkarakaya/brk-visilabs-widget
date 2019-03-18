@@ -1,10 +1,8 @@
 # visilabs-widget
 
 
-## CONFIG
-
+## HTML TEMPLATE
 ```HTML
-
 <script id="visTemplateList" type="text/template">
     <li class="ems-prd swiper-slide {{class}}" data-prdcode="{{prdcode}}">
 
@@ -39,6 +37,12 @@
 <div class="prdStatus"><div class="urunListe_pnlIndirimOran"><span class="urunListe_IndirimOran">%{{discount}}</span></div></div>
 
 </script>
+
+```
+
+## CONFIG
+
+```HTML
 
 <script type="text/javascript">
 
